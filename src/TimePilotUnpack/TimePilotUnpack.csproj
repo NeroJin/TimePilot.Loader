@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>TimePilot.Unpack</RootNamespace>
+    <AssemblyName>TimePilotUnpack</AssemblyName>
+    <Version>1.0.0</Version>
+    <Product>TimePilot Unpack</Product>
+    <Description>Xbox 360 STFS（LIVE/PIRS/CON）只读解包库</Description>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+
+</Project>
